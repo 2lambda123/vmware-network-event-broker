@@ -11,7 +11,7 @@ require (
 	github.com/spf13/viper v1.19.0
 	github.com/syndtr/gocapability v0.0.0-20200815063812-42c35b437635
 	github.com/vishvananda/netlink v1.3.0
-	golang.org/x/sys v0.27.0
+	golang.org/x/sys v0.28.0
 )
 
 require (
